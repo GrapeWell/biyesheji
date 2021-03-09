@@ -1,0 +1,48 @@
+.login-form {
+    width: 500px;
+    /* height: 300px; */
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.login-form ul li {
+    margin-top: 10px;
+}
+
+.login-form ul li label {
+    display: inline-block;
+    font-size: 16px;
+    width: 60px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.login-form ul li .login-inp {
+    width: 242px;
+    height: 37px;
+    font-size: 14px;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+}
+
+.login-form ul li .login-yzm {
+    width: 121px;
+    height: 37px;
+    font-size: 14px;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+}
+
+.login-form .btn {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.login-form ul li .login-btn {
+    font-size: 14px;
+    width: 100px;
+    height: 50px;
+    margin-top: 0;
+}
