@@ -23,6 +23,6 @@ for (var i = 0; i < lis.length; i++) {
             as[i].style.color = '#666';
             as[i].style.textDecoration = 'none';
         }
-        this.style.backgroundColor = 'rgb(54,54,54)';
+        this.style.backgroundColor = 'rgb(54,54,54,.2)';
     })
 }
