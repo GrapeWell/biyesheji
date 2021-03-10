@@ -4,12 +4,21 @@
     float: left;
 }
 
+
+/* 导航栏布局 */
+
 .logo {
-    width: 100px;
-    height: 50px;
-    line-height: 50px;
+    width: 60px;
+    height: 55px;
 }
 
+.header-title h3 {
+    display: inline-block;
+    font-size: 20px;
+}
+
+
+/* 
 .header-service {
     height: 60px;
     width: 600px;
@@ -17,12 +26,15 @@
 
 .header-service ul li {
     float: left;
+    position: relative;
     height: 60px;
-    margin-left: 20px;
     line-height: 60px;
     font-size: 16px;
     padding: 0 20px;
-}
+} */
+
+
+/* 导航栏布局结束 */
 
 .header-login {
     height: 60px;
