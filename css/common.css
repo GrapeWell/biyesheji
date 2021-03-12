@@ -17,21 +17,12 @@
     font-size: 20px;
 }
 
-
-/* 
-.header-service {
+.timeshow {
+    width: 250px;
     height: 60px;
-    width: 600px;
+    line-height: 65px;
+    font-size: 14px;
 }
-
-.header-service ul li {
-    float: left;
-    position: relative;
-    height: 60px;
-    line-height: 60px;
-    font-size: 16px;
-    padding: 0 20px;
-} */
 
 
 /* 导航栏布局结束 */
@@ -39,7 +30,6 @@
 .header-login {
     height: 60px;
     width: 200px;
-    /* background-color: pink; */
 }
 
 .header-login ul li {
@@ -59,15 +49,13 @@
 .footer {
     width: 100%;
     background-color: rgb(27, 28, 29);
-    position: absolute;
-    bottom: 0;
 }
 
 .footer-desc {
     width: 300px;
     margin: 0 auto;
-    height: 40px;
-    line-height: 40px;
+    height: 35px;
+    line-height: 35px;
     font-size: 14px;
     color: #fff;
 }
