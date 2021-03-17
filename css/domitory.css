@@ -1,0 +1,80 @@
+.left-side {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: url(../uploads/swpu.jfif) no-repeat;
+    height: 100%;
+    width: 480px;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+}
+
+.nav {
+    height: 60px;
+}
+
+.nav ul li {
+    float: left;
+    height: 60px;
+    padding: 0 20px;
+}
+
+.nav ul li a {
+    font-size: 20px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.logo {
+    float: left;
+    margin-right: 25px;
+}
+
+.ride-form {
+    margin-top: 50px;
+}
+
+.ride-form .form-title {
+    margin-bottom: 15px;
+}
+
+.form-border {
+    border: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+.ride-form ul li {
+    margin-bottom: 25px;
+}
+
+.ride-form ul li label {
+    display: inline-block;
+    font-size: 18px;
+    width: 100px;
+    text-align: right;
+}
+
+.ride-form ul li .inp {
+    margin-left: 5px;
+    height: 10px;
+    transform: scale(2);
+}
+
+.ride-form ul li span {
+    display: inline-block;
+    width: 70px;
+    height: 10px;
+    line-height: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.ride-form ul li .btn {
+    width: 300px;
+    height: 50px;
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    outline: none;
+}
